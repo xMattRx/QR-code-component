@@ -23,6 +23,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 20px;
   padding: 12px 15px 0px 15px;
   border-radius: 18px;
 }
@@ -38,9 +39,9 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-.container_qrcode .container_qrcode_txt h2 {
+.container_qrcode .container_qrcode_txt h1 {
   color: hsl(218deg, 44%, 22%);
-  font-size: 20px;
+  font-size: 1.25rem;
   margin-bottom: 30px;
   text-align: center;
   max-width: 239px;
